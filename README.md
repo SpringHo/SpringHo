@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.Caveat
 &nbsp;&nbsp;
 I'm open to coffee chats☕, and networking in general!
 
--  ☺️ I’m interested in learning new things, which include me venturing out into the world of data analytics, I also am obsessed with checking out new cafes and have a bad boba addiction
+-  ☺️ I’m interested in challenging myself to new things, which include me venturing out into the world of data analytics, I also am obsessed with checking out new cafes and have a bad boba addiction
 - 🌱 I’m currently learning SQL as of know and hopefully Tableau in the future. In general I love learning about new ideas and concepts
 - 👯 I’m looking to collaborate with other content creators, as well as fun SQL projects
 - 📫 How to reach me here or connect with me on Linkedin! I also have a Discord~
