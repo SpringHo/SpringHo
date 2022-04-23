@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.Caveat
 ### 
 [Connect with me on Linkedin](https://www.linkedin.com/in/springho/) 👋 
 &nbsp;&nbsp;
-I'm open to coffee chats, and networking in general!
+I'm open to coffee chats☕, and networking in general!
 
 -  ☺️ I’m interested in learning new things, which include me venturing out into the world of data analytics, I also am obsessed with checking out new cafes and have a bad boba addiction
 - 🌱 I’m currently learning SQL as of know and hopefully Tableau in the future. In general I love learning about new ideas and concepts
