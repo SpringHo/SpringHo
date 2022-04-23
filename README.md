@@ -29,7 +29,7 @@ I'm open to coffee chats☕, and networking in general!
 - 🌱 I’m currently learning SQL as of know and hopefully Tableau in the future. In general I love learning about new ideas and concepts
 - 👯 I’m looking to collaborate with other content creators, as well as fun SQL projects
 - 📫 How to reach me here or connect with me on Linkedin! I also have a Discord~
-- ☕ I grew up in Portland, Oregon and graduated with a Healthcare degree in Administration with a Program Management background
+- 🌲 I grew up in Portland, Oregon and graduated with a Healthcare degree in Administration with a Program Management background
 - 💻 2022 Goals: Transition into a Tech position 
 - ⚡ Fun fact: I can eat a full course of AYCE Korean BBQ, I can still be down for ice-cream and boba aftewards
 - ⚡ My level of high level of commitment in food is the same equivalent I put into my work
