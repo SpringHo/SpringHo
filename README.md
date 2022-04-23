@@ -10,15 +10,14 @@ You can click the Preview link to take a look at your changes.Caveat
 
 
 ## I'm a Progam/Project Manager, Recruiter, Leader, and aspiring Data Analyst!! 
+
+
 ### 
-![](https://visitor-badge.laobi.icu/badge?page_id=SpringHo.SpringHo)
-
-####
-
-[Connect with me on Linkedin](https://www.linkedin.com/in/springho/) 👋 
+<b>[Connect with me on Linkedin](https://www.linkedin.com/in/springho/) 👋 
 &nbsp;&nbsp;
-I'm open to coffee chats☕, and networking in general!
-
+I'm open to coffee chats☕, and networking in general!</b>
+<br />
+<br />
 -  ☺️ I’m interested in challenging myself to new things, which include me venturing out into the world of data analytics, I also am obsessed with checking out new cafes and have a bad boba addiction
 - 🌱 I’m currently learning SQL as of know and hopefully Tableau in the future. In general I love learning about new ideas and concepts
 - 👯 I’m looking to collaborate with other content creators, as well as fun SQL projects
@@ -29,7 +28,7 @@ I'm open to coffee chats☕, and networking in general!
 - ⚡ My level of high level of commitment in food is the same equivalent I put into my work
 
 <p align="center">
-  Find me on:
+  <b> Find me on: </b>
 </p>
 <p align="center">
  <a href="https://www.linkedin.com/in/springho/" target="_blank" rel="noopener noreferrer"> <img src="https://media.discordapp.net/attachments/626966678290432024/967270731421450300/linkedin-512.webp" alt="Python" height="40" style="vertical-align:top; margin:5px"></a>
@@ -37,7 +36,7 @@ I'm open to coffee chats☕, and networking in general!
 </p>
 
 
-##### Languages and Tools:
+#### Languages and Tools:
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://www.linkedin.com/in/springho/#gh-dark-mode-only)
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://www.linkedin.com/in/springho/#gh-light-mode-only)
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/springho/#gh-dark-mode-only)
@@ -46,5 +45,7 @@ I'm open to coffee chats☕, and networking in general!
 
 <br />
 <br />
+
+##### ![](https://visitor-badge.laobi.icu/badge?page_id=SpringHo.SpringHo)
 
 ---
