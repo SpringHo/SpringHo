@@ -31,7 +31,7 @@ I'm open to coffee chats☕, and networking in general!</b>
   <b> Find me on: </b>
 </p>
 <p align="center">
- <a href="https://www.linkedin.com/in/springho/" target="_blank" rel="noopener noreferrer"> <img src="https://media.discordapp.net/attachments/626966678290432024/967270731421450300/linkedin-512.webp" alt="Python" height="40" style="vertical-align:top; margin:5px"></a>
+ <a href="https://www.linkedin.com/in/springho/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.discordapp.com/attachments/626966678290432024/967276523587510342/2613305_business_employment_identity_linkedin_social_media_icon.png" alt="Python" height="40" style="vertical-align:top; margin:5px"></a>
  <a href="mailto:vn.sho97@gmail.com"> <img src="https://media.discordapp.net/attachments/626966678290432024/967270731111088148/4202011_email_gmail_mail_logo_social_icon.png" alt="Python" height="40" style="vertical-align:top; margin:5px"></a>
 </p>
 
