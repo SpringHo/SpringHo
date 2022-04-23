@@ -1,5 +1,4 @@
-
-Welcome to my Portfolio
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&size=80&duration=4000&color=F7B9D3&width=800&height=100&lines=Welcome+to+my+SQL+Portfolio)](https://git.io/typing-svg)
 <!---
 SpringHo/SpringHo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
