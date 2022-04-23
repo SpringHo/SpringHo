@@ -11,6 +11,16 @@ You can click the Preview link to take a look at your changes.Caveat
 
 ## I'm a Progam/Project Manager, Recruiter, Leader, and aspiring Data Analyst!! 
 ### 
+![](https://visitor-badge.laobi.icu/badge?page_id=SpringHo.SpringHo)
+
+
+#### ✉️ Find me on:
+<p align="center">
+ <a href="https://www.linkedin.com/in/springho/" target="_blank" rel="noopener noreferrer"> <img src="https://media.discordapp.net/attachments/626966678290432024/967270731421450300/linkedin-512.webp" alt="Python" height="40" style="vertical-align:top; margin:5px"></a>
+ <a href="mailto:vn.sho97@gmail.com"> <img src="https://media.discordapp.net/attachments/626966678290432024/967270731111088148/4202011_email_gmail_mail_logo_social_icon.png" alt="Python" height="40" style="vertical-align:top; margin:5px"></a>
+</p>
+<br />
+
 [Connect with me on Linkedin](https://www.linkedin.com/in/springho/) 👋 
 &nbsp;&nbsp;
 I'm open to coffee chats☕, and networking in general!
@@ -26,9 +36,12 @@ I'm open to coffee chats☕, and networking in general!
 
 
 
-#### Languages and Tools:
+##### Languages and Tools:
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://www.linkedin.com/in/springho/#gh-dark-mode-only)
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://www.linkedin.com/in/springho/#gh-light-mode-only)
+
+
+
 
 <br />
 <br />
