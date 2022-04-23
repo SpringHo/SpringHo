@@ -18,10 +18,10 @@ You can click the Preview link to take a look at your changes.Caveat
 I'm open to coffee chats☕, and networking in general!</b>
 <br />
 <br />
--  ☺️ I’m interested in challenging myself to new things, which include me venturing out into the world of data analytics, I also am obsessed with checking out new cafes and have a bad boba addiction
+-  ☺️ I love challenging myself to new things, which includes me venturing out into the world of data analytics, I also am obsessed with checking out new cafes and have a bad boba addiction
 - 🌱 I’m currently learning SQL as of know and hopefully Tableau in the future. In general I love learning about new ideas and concepts
 - 👯 I’m looking to collaborate with other content creators, as well as fun SQL projects
-- 📫 How to reach me here or connect with me on Linkedin! I also have a Discord~
+- 📫 Best way to reach me is connect with me on Linkedin! I also have a Discord~
 - 🌲 I grew up in Portland, Oregon and graduated with a Healthcare degree in Administration with a Program Management background
 - 💻 2022 Goals: Transition into a Tech position 
 - ⚡ Fun fact: I can eat a full course of AYCE Korean BBQ, I can still be down for ice-cream and boba aftewards
