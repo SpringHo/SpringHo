@@ -1,15 +1,15 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&size=55&duration=3200&color=91CAF7&width=800&height=115&lines=Hi+there%2C+I'm+Spring)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&size=45&duration=3200&color=91CAF7&width=800&height=115&lines=Hi+there%2C+I'm+Spring)](https://git.io/typing-svg)
 
 
 <!---
 SpringHo/SpringHo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.Caveat
 --->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&size=80&duration=3000&color=77A5CAFF&width=800&height=110&lines=Welcome+to+my+SQL+Portfolio)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&size=70&duration=3000&color=77A5CAFF&width=800&height=110&lines=Welcome+to+my+SQL+Portfolio)](https://git.io/typing-svg)
 
 
 
-## I'm a 1, 2, Progam/Project Manager, and Leader!! 
+## I'm a Progam/Project Manager, Recruiter, Leader, and aspiring Data Analyst!! 
 ### 
 [Connect with me on Linkedin](https://www.linkedin.com/in/springho/) 👋 
 &nbsp;&nbsp;
