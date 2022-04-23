@@ -3,13 +3,12 @@
 SpringHo/SpringHo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# Hi there, I'm Spring 
-
-#[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&size=80&duration=4000&color=91CAF7&width=800&height=150&lines=Hi+there%2C+I'm+Spring)](https://git.io/typing-svg)- [Linkedin](https://www.linkedin.com/in/springho/) 👋 
+#[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&size=80&duration=4000&color=91CAF7&width=800&height=150&lines=Hi+there%2C+I'm+Spring)](https://git.io/typing-svg)- 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed&color=F7B9D3&width=500&lines=Hello+there%2C+I'm+Spring!!+)](https://git.io/typing-svg)
 
 
 ## I'm a 1, 2, Progam/Project Manager, and Leader!!
+### [Linkedin](https://www.linkedin.com/in/springho/) 👋 
 
 
 - 👀 I’m interested in learning new things, which include me venturing out into the world of data analytics, I also am obsessed with checking out new cafes and have a bad boba addiction
@@ -22,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 
-### Connect with me:
+#### Connect with me:
 
 
 [![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
