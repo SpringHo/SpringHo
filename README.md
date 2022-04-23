@@ -9,20 +9,19 @@ You can click the Preview link to take a look at your changes.Caveat
 
 
 
-## I'm a 1, 2, Progam/Project Manager, and Leader!! [Connect with me on Linkedin](https://www.linkedin.com/in/springho/) 👋 
-&nbsp;&nbsp;
+## I'm a 1, 2, Progam/Project Manager, and Leader!! 
 ### 
 [Connect with me on Linkedin](https://www.linkedin.com/in/springho/) 👋 
 &nbsp;&nbsp;
 
-- 👀 I’m interested in learning new things, which include me venturing out into the world of data analytics, I also am obsessed with checking out new cafes and have a bad boba addiction
-- 🌱 I’m currently learning SQL as of know and hopefully Tableau in the future
-- 💞️ I’m looking to collaborate on maybe on some SQL projects? 
+-  ☺️ I’m interested in learning new things, which include me venturing out into the world of data analytics, I also am obsessed with checking out new cafes and have a bad boba addiction
+- 🌱 I’m currently learning SQL as of know and hopefully Tableau in the future. In general I love learning about new ideas and concepts
+- 👯 I’m looking to collaborate with other content creators, as well as fun SQL projects
 - 📫 How to reach me here or connect with me on Linkedin! I also have a Discord~
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to 
+- ☕ I grew up in Portland, Oregon and graduated with a Healthcare degree in Administration with a Program Management background
+- 💻 2022 Goals: Transition into a Tech position 
+- ⚡ Fun fact: I can eat a full course of AYCE Korean BBQ, I can still be down for ice-cream and boba aftewards
+- ⚡ My level of high level of commitment in food is the same equivalent I put into my work
 
 
 
