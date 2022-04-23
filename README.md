@@ -18,6 +18,8 @@ You can click the Preview link to take a look at your changes.Caveat
 I'm open to coffee chats☕, and networking in general!</b>
 <br />
 <br />
+---
+
 -  ☺️ I love challenging myself to new things, which includes me venturing out into the world of data analytics, I also am obsessed with checking out new cafes and have a bad boba addiction
 - 🌱 I’m currently learning SQL as of know and hopefully Tableau in the future. In general I love learning about new ideas and concepts
 - 👯 I’m looking to collaborate with other content creators, as well as fun SQL projects
@@ -26,6 +28,8 @@ I'm open to coffee chats☕, and networking in general!</b>
 - 💻 2022 Goals: Transition into a Tech position 
 - ⚡ Fun fact: I can eat a full course of AYCE Korean BBQ, I can still be down for ice-cream and boba aftewards
 - ⚡ My level of high level of commitment in food is the same equivalent I put into my work
+
+
 
 <p align="center">
   <b> Find me on: </b>
@@ -36,6 +40,7 @@ I'm open to coffee chats☕, and networking in general!</b>
 </p>
 
 
+
 #### Languages and Tools:
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://www.linkedin.com/in/springho/#gh-dark-mode-only)
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://www.linkedin.com/in/springho/#gh-light-mode-only)
@@ -43,9 +48,11 @@ I'm open to coffee chats☕, and networking in general!</b>
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/springho/#gh-light-mode-only)
 
 
+
 <br />
 <br />
 
-##### ![](https://visitor-badge.laobi.icu/badge?page_id=SpringHo.SpringHo)
 
----
+
+##### 
+![](https://visitor-badge.laobi.icu/badge?page_id=SpringHo.SpringHo)
