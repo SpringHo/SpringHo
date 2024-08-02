@@ -5,7 +5,6 @@
 SpringHo/SpringHo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.Caveat
 --->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&size=70&duration=3000&color=77A5CAFF&width=800&height=110&lines=Welcome+to+my+SQL+Portfolio)](https://git.io/typing-svg)
 
 
 
