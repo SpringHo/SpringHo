@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.Caveat
 
 
 
-## I'm a Progam/Project Manager, Talent Acquisition, Leader, and aspiring Data Analyst!! 
+## I'm a Project Manager, Leader, and aspiring Cybersecurity Analyst!! 
 
 
 ### 
