@@ -20,7 +20,7 @@ I'm open to coffee chats☕, and networking!</b>
 
 
 -  ☺️ I love challenging myself to new things, which includes me venturing out into the world of data analytics, I also am obsessed with checking out new cafes and have a bad boba addiction
-- 🌱 I’m currently learning SQL as of now and hopefully Tableau in the future. In general, I love learning about new ideas and concepts
+- 🌱 I’m currently learning SQL/Python as of now and hopefully Tableau in the future. In general, I love learning about new ideas and concepts
 - 👯 I’m looking to collaborate with other content creators, as well as fun SQL projects
 - 📫 Best way to reach me is connect with me on Linkedin! I also have a Discord~
 - 🌲 I grew up in Portland, Oregon and graduated with a Healthcare degree in Administration with a Program Management background
