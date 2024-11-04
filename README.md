@@ -19,13 +19,13 @@ I'm open to coffee chats☕, and networking!</b>
 <br />
 
 
--  ☺️ I love challenging myself to new things, which includes me venturing out into the world of data analytics, I also am obsessed with checking out new cafes and have a bad boba addiction
+-  ☺️ I love challenging myself to new things, which includes me venturing out into the world of data analytics, I also am obsessed with checking out new cafes and have a boba addiction
 - 🌱 I’m currently learning SQL/Python as of now and hopefully Tableau in the future. In general, I love learning about new ideas and concepts
 - 👯 I’m looking to collaborate with other content creators, as well as fun SQL projects
 - 📫 Best way to reach me is connect with me on Linkedin! I also have a Discord~
 - 🌲 I grew up in Portland, Oregon and graduated with a Healthcare degree in Administration with a Program Management background
 - 💻 2024 Goals: Transition into a Tech position that can fully utilize my skillset and challenge me
-- ⚡ Fun fact: I can eat a full course of AYCE Korean BBQ, I can still be down for ice-cream and boba aftewards
+- ⚡ Fun fact: I can eat a full course of AYCE Korean BBQ, I can still be down for ice-cream and boba afterward
 - ⚡ My level of high commitment in food is the same equivalent I put into my work
 
 
