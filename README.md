@@ -23,7 +23,7 @@ I'm open to coffee chats☕, and networking!</b>
 - 🌱 I’m currently learning SQL/Python as of now and fun cybersecurity projects. In general, I love learning about new ideas and concepts
 - 👯 I’m looking to collaborate with other content creators, as well as fun SQL projects
 - 📫 Best way to reach me is connect with me on Linkedin! 
-- 🌲 I grew up in Portland, Oregon and graduated with a Healthcare degree in Administration with a Program Management background
+- 🌲 I grew up in Portland, Oregon, and graduated with a 2 Bachelor's in Biology and Healthcare Administration in Program Management
 - 💻 Current Goals: Transition into a Tech position that can fully utilize my skillset and challenge me
 - ⚡ Fun fact: I can eat a full course of AYCE Korean BBQ, but have room for a full course dessert
 
